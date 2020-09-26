@@ -1,0 +1,60 @@
+body {
+    background-color: #EEEEEE;
+    font-family: "Roboto", sans-serif;
+
+    margin: 20px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 32px;
+    margin: 0;
+    padding-top: 6px;
+    padding-left: 10px;
+}
+
+h2 {
+    color: #222222;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    padding-left: 10px;
+}
+
+p {
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.5;
+    display: inline-block;
+}
+
+.container header section {
+    display: block;
+    float: left;
+}
+
+
+.photo img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+a:link {
+    color: #000000;
+    font-weight: 500;
+}
+
+a:visited {
+    color: #000000;
+    font-weight: 500;
+}
+
+a:hover {
+    transition: 0.3s;
+    color: #333333;
+}
+
+a:active {
+    color: #000000;
+    font-weight: 500;
+}

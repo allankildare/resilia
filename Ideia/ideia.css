@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    padding: 0 25px 0 25px;
+    height: 50px;
+}
+
+.navigation {
+    display: flex;
+}
+
+.cabecalho {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 16px;
+    color: #f1f1f1;
+}
+
+.cabecalho:hover {
+    transition: 0.3s;
+    color: #CCC;
+    font-size: 20.5px;
+}
