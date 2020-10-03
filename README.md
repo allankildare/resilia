@@ -17,12 +17,10 @@
  Vale ressaltar que iniciamos no mês de setembro/2020 e a previsão para término do curso é março/2021. Você pode conferir outros repositórios em meu [GitHub](https://github.com/allankildare?tab=repositories)
  todos estão disponíveis para a comunidade, sinta-se a vontade para dar o famoso <code>git clone</code>.
  
- Outros repositórios com material produzido ao longo do curso da Resilia Educação:
- 
- Página inspirada na plataforma de streaming Netflix -> <a href="https://github.com/allankildare/resilia-flix">ResiliaFlix</a>
- 
- Repositório com exercícios de JavaScript -> <a href="https://github.com/allankildare/exercicios_js">exercicios_js</a>
- 
+ Outros repositórios com material produzido ao longo do curso da Resilia Educação:<br>
+ Página inspirada na plataforma de streaming Netflix -> <a href="https://github.com/allankildare/resilia-flix">ResiliaFlix</a><br>
+ Repositório com exercícios de JavaScript -> <a href="https://github.com/allankildare/exercicios_js">exercicios_js</a><br>
+ <br>
  Sem mais delongas, confira abaixo a lista dos projetos em ordem cronológica:
  Projeto | Descrição | Tecnologias usadas | Mês de início
  :--: | :--: | :--: | :--: |
