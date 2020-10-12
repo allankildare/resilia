@@ -1,0 +1,37 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #F0F0F0;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+.small {
+    font-size: .8em;
+}
+
+@keyframes up {
+    from {
+        transform: translateY(20px);
+    } to {
+        transform: translateY(0);
+    }
+}
+
+.animation-up {
+    animation-name: up;
+    animation-duration: 1.2s;
+    animation-fill-mode: backwards;
+}
