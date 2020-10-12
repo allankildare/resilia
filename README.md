@@ -17,12 +17,17 @@
  Vale ressaltar que iniciamos no mês de setembro/2020 e a previsão para término do curso é março/2021. Você pode conferir outros repositórios em meu [GitHub](https://github.com/allankildare?tab=repositories)
  todos estão disponíveis para a comunidade, sinta-se a vontade para dar o famoso <code>git clone</code>.
  
+ Outros repositórios com material produzido ao longo do curso da Resilia Educação:<br>
+ Página inspirada na plataforma de streaming Netflix -> <a href="https://github.com/allankildare/resilia-flix">ResiliaFlix</a><br>
+ Repositório com exercícios de JavaScript -> <a href="https://github.com/allankildare/exercicios_js">exercicios_js</a><br>
+ <br>
  Sem mais delongas, confira abaixo a lista dos projetos em ordem cronológica:
- Projeto | Descrição | Tecnologias usadas | Mês de início | Autor(es)
- :--: | :--: | :--: | :--: | :--: |
- Primeiro site | Primeiro site do curso | HTML | 1° | Allan Kildare
- História colega | Resumo da história de uma colega | HTML e CSS (template) | 1° | Allan Kildare
- Natal - RN | Site de localidade | HTML e CSS | 1° | Allan Kildare
- Aprendizado | Resumo do aprendizado até aquele momento | HTML e CSS | 1° | Allan Kildare
- 
- Tabela ainda não finalizada...
+ Projeto | Descrição | Tecnologias usadas | Mês de início
+ :--: | :--: | :--: | :--: |
+ Primeiro site | Primeiro site do curso | HTML | 1° 
+ História colega | Resumo da história de uma colega | HTML e CSS (template) | 1°
+ Natal - RN | Site de localidade | HTML e CSS | 1° 
+ Aprendizado | Resumo do aprendizado até aquele momento | HTML e CSS | 1°
+Case Resilia | Formulário de inscrição para processo seletivo Resilia | HTML e CSS | 1°
+Matriz FOFA | Matriz FOFA utilizando flexbox | HTML e CSS | 1°
+Ideia | Header simples | HTML e CSS | 1°
