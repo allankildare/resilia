@@ -7,16 +7,21 @@
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
-    <script type="text/javascript" src="script.js"></script>
     <title>As escolhas de um desenvolvedor fullstack</title>
 </head>
-    <body class="animation-up"> 
-    <h1>Olá, esse será um joguinho divertido para entendermos como está o andamento dos seus estudos de desenvolvimento web. 
-    Então vamos te fazer algumas perguntinhas e ver como você se sai, ok? Não demora.</h1>
-    <p>Qual é o seu nome?</p>
-    <p class="small">(Apenas o primeiro nome)</p>
-    <br>
-    <input type="text" id="name">
-    <button onclick="iniciar()">Responder</button>
+<body class="animation-up">
+    <div id="container">
+        <div id="name-enter">
+            <h1 id="intro-1">Esse será um joguinho divertido para entendermos como está o andamento dos seus estudos de desenvolvimento web.</h1>
+            <h2 id="intro-1">Então, alguns carinhas da tecnologia vão te fazer algumas perguntinhas e ver como você se sai, ok? Talvez você conheça.</h2>
+            <p class="name-question">Qual é o seu nome?</p>
+            <p class="small">(Apenas o primeiro nome)</p>
+            <br>
+            <input type="text" id="name">
+            <br>
+            <button class="name-button" id="name-aswer" onclick="iniciar()">Responder</button>
+        </div>
+    </div>
 </body>
+<script type="text/javascript" src="script.js"></script>
 </html>

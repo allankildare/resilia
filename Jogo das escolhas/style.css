@@ -9,17 +9,69 @@
 body {
     text-align: center;
     background-color: #F0F0F0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container {
+    background-color: #FEFEFE;
+    padding: 15px 10px;
+    width: 600px;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, .7);
+    border-radius: 10px;
 }
 
 h1 {
-    font-weight: 400;
+    font-weight: 600;
     font-size: 1.5em;
     line-height: 1.2;
     margin-bottom: 10px;
 }
 
-.small {
+h2 {
+    font-weight: 400;
+    font-size: 1.3em;
+}
+
+.name-question {
+    margin-top: 10px;
+    font-size: 1.3em;
+}
+
+.name-button {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 67, 67));
+    margin-top: 5px;
+    border: none;
+    color: #FFF;
     font-size: .8em;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}
+
+#name {
+    border: none;
+    height: 25px;
+    width: 160px;
+    background-color: #F2F2F2;
+    border-bottom: 2px solid rgba(1, 1, 1);
+    outline: none;
+    text-align: center;
+}
+
+#name:focus {
+    border-bottom: 2px solid #5873e0;
+}
+
+.text-start {
+    font-weight: bold;
+    text-align: left;
+}
+
+.small {
+    font-size: .78em;
 }
 
 @keyframes up {
@@ -34,4 +86,19 @@ h1 {
     animation-name: up;
     animation-duration: 1.2s;
     animation-fill-mode: backwards;
+}
+
+/* Mobile */
+/* Smartphone */
+@media (max-width: 425px) {
+    #container {
+        width: 300px;
+    }
+}
+
+/* Tablet */
+@media(max-width: 768px) {
+    #container {
+        width: 500px;
+    }
 }
