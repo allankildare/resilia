@@ -21,7 +21,7 @@
  Página inspirada na plataforma de streaming Netflix -> <a href="https://github.com/allankildare/resilia-flix">ResiliaFlix</a><br>
  Repositório com exercícios de JavaScript -> <a href="https://github.com/allankildare/exercicios_js">exercicios_js</a><br>
  <br>
- Sem mais delongas, confira abaixo a lista dos projetos em ordem cronológica:
+ Lista dos projetos em ordem cronológica:
  Projeto | Descrição | Tecnologias usadas | Mês de início
  :--: | :--: | :--: | :--: |
  Primeiro site | Primeiro site do curso | HTML | 1° 
